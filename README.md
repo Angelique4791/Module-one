@@ -18,6 +18,7 @@ To find trends based on theater plays, the data first had to be sorted by catego
 
 The data shows that May is the month with the most successful outcomes and December is the month with the least successful outcomes. Failed outcomes remain fairly consistent throughout the year, nearly equaling successful Kickstarter campaigns in December.
 
+![Outcomes_based_on_goals](https://github.com/Angelique4791/Module-one/blob/main/Outcomes_Based_on_Goals_vers_2.png)
 
 ### Analysis of Outcomes Based on Goals
 The data shows that Kickstarters with a goal of 1000 to 4999 were the most successful range of campaigns. As campaign goal increased from that range, success rate fell.
